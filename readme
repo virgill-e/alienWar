@@ -1,5 +1,7 @@
 *cocher add python 306 to PATH durant l'instalation de python
 python3.8.7
 
-pip install secure-smtplib
+
 pip install pygame
+
+(pip install secure-smtplib) l'envoie de mail a été retiré donc non nécessaire
