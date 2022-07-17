@@ -1,7 +1,6 @@
-*cocher add python 306 to PATH durant l'instalation de python
-python3.8.7
+AlienWar est mon premier vrai projet python et un projet scolaire
 
 
 pip install pygame
 
-(pip install secure-smtplib) l'envoie de mail a été retiré donc non nécessaire
+(pip install secure-smtplib) l'envoie de mail a été retiré
